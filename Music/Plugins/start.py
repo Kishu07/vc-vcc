@@ -61,7 +61,7 @@ Powered By [arc Music](t.me/the_arc_music) ...
                         "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/{ARC_SUPPORT}"
+                        "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/{ZAID_SUPPORT}"
                     )
                 ]
                 
